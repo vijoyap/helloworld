@@ -1,2 +1,3 @@
+#python 3
 import re
-print "hello"
+print("Hello")
